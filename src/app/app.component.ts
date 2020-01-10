@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'springbootangular';
+  title = 'Welcome to Client:Angular Sever:SpringBoot Cassandra NoSQL!';
 }
